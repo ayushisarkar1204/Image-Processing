@@ -1,0 +1,77 @@
+Learning Objectives
+
+• Integrate concepts from all units of Image Processing & Computer Vision
+• Design a complete image processing pipeline
+• Apply enhancement, restoration, segmentation, and feature extraction techniques
+• Evaluate system performance using standard image quality metrics
+• Develop clean, modular, and ethical Python code for real-world problems
+
+Task 1: Project Setup & System Overview
+• Create a project folder intelligent_image_system/
+• Create a Python script main.py
+• Print a welcome message describing the system and its purpose
+Deliverable:
+Structured project folder with a clearly documented Python script.
+
+Task 2: Image Acquisition & Preprocessing
+• Load an image from disk OR capture an image using a webcam
+• Resize image to a standard resolution (e.g., 512×512)
+• Convert image to grayscale
+• Display original and grayscale images
+Deliverable:
+Working image acquisition and preprocessing logic.
+
+Task 3: Image Enhancement & Restoration
+• Simulate real-world degradation by adding:
+Gaussian noise
+Salt-and-pepper noise
+• Apply restoration techniques:
+Mean filter
+Median filter
+Gaussian filter
+• Apply contrast enhancement (Histogram Equalization or CLAHE)
+Deliverable:
+Enhanced and restored images with visual comparison.
+
+Task 4: Image Segmentation & Morphological Processing
+• Segment the enhanced image using:
+Global thresholding
+Otsu’s thresholding
+• Apply morphological operations:
+Dilation
+Erosion
+• Improve object boundaries and region clarity
+Deliverable:
+Segmented and morphologically refined images.
+
+Task 5: Object Representation & Feature Extraction
+• Detect edges using:
+Sobel operator
+Canny edge detector
+• Extract object contours and draw bounding boxes
+• Extract features using:
+ORB / SIFT / SURF (any one)
+• Visualize keypoints and descriptors
+Deliverable:
+Images showing object boundaries and extracted features.
+
+Task 6: Performance Evaluation
+• Compute and display:
+Mean Squared Error (MSE)
+Peak Signal-to-Noise Ratio (PSNR)
+Structural Similarity Index (SSIM)
+• Compare:
+Original vs Enhanced image
+Original vs Restored image
+Deliverable:
+Printed evaluation metrics and interpretation.
+
+Task 7: Final Visualization & Analysis
+• Display all major stages in a single figure:
+Original
+Noisy
+Restored
+Enhanced
+Segmented
+Features extracted
+
