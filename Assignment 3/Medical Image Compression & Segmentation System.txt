@@ -1,0 +1,28 @@
+Learning Objectives
+
+Understand image data redundancy.
+Implement lossless compression techniques.
+Perform image segmentation using thresholding.
+Improve segmentation using morphological operations.
+
+Task 1: Image Compression
+Load a grayscale medical image (X-ray / MRI / CT)
+Implement Run Length Encoding (RLE)
+Calculate compression ratio and storage savings
+
+Task 2: Image Segmentation
+Apply:
+Global thresholding
+Otsu’s thresholding
+Identify regions of interest
+
+Task 3: Morphological Processing
+Apply:
+Dilation
+Erosion
+Refine segmented regions
+
+Task 4: Analysis and Interpretation
+Compare segmentation results
+Discuss clinical relevance of extracted regions
+
