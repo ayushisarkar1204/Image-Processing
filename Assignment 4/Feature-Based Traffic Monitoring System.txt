@@ -1,0 +1,25 @@
+Learning Objectives
+
+Detect edges and object boundaries.
+Represent objects using contours.
+Extract key features using classical CV techniques.
+Understand how features support higher-level vision tasks.
+
+Task 1: Edge Detection
+Apply Sobel operator
+Apply Canny edge detector
+Compare edge quality
+
+Task 2: Object Representation
+Detect contours
+Draw bounding boxes around detected objects
+Compute object area and perimeter
+
+Task 3: Feature Extraction
+Apply ORB / SIFT / SURF
+Visualize keypoints and descriptors
+
+Task 4: Comparative Analysis
+Compare edge detectors and feature extractors
+Explain how features help in traffic monitoring
+
