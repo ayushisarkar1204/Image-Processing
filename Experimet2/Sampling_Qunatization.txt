@@ -1,0 +1,2 @@
+ Experiment 2
+ Sampling and Quantization on an Image
