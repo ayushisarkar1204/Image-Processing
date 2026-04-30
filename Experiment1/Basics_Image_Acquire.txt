@@ -1,0 +1,3 @@
+Experiment 1
+Implement a program to acquire and display an image
+Demonstrate image sensing and acquisition using OpenCV
