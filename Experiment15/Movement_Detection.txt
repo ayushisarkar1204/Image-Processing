@@ -1,0 +1,8 @@
+Start video capture (0 = webcam)
+Create background subtractor
+Read frame from camera
+Apply background subtraction
+Remove noise using threshold
+Find contours of moving objects
+Draw bounding boxes around detected objects
+Show output
