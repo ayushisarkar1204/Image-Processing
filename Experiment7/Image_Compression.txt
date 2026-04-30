@@ -1,0 +1,2 @@
+ Experiment 7
+ Image Compression using Huffman Coding and Run Length Coding
